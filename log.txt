@@ -1,0 +1,3 @@
+D:\WorkingData\2016WorkJob\WorkingFinal\SetupService\Release\winsvc_install.pdb,,0/0
+winsvc_install.pdb,https://malwr.com
+: ,1/1
